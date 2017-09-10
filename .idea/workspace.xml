@@ -53,6 +53,11 @@
               <item name="01-CSCIE71-Setup" type="b2602c69:ProjectViewProjectNode" />
               <item name="01-CSCIE71-Setup" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="01-CSCIE71-Setup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01-CSCIE71-Setup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -174,12 +179,12 @@
       <option name="presentableId" value="Default" />
       <updated>1505080360021</updated>
       <workItem from="1505080363267" duration="30000" />
-      <workItem from="1505080449791" duration="65000" />
+      <workItem from="1505080449791" duration="158000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95000" />
+    <option name="totallyTimeSpent" value="188000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
